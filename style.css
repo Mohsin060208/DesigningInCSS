@@ -1,0 +1,152 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: -5px;
+}
+#sr{
+    width: 20px;
+}
+.header{    
+    width: auto;
+    height: auto;
+    background-color: rgb(34,34,34);
+    display: flow-root;
+}
+img{
+    padding-top: 10px;
+    padding-left: 5px;
+}
+#p1{
+color:lavender;
+font-family: Arial, Helvetica, sans-serif;
+display: inline;
+margin-right: 40px;
+}
+li,a{
+    color: rgb(157, 157, 157);
+    font-family: Arial, Helvetica, sans-serif;
+    display: inline;
+    margin-right: 10px;
+}
+.banner{
+    width: auto;
+    height: 250px;
+    background-color: rgb(154,205,50);
+    display: flow-root;
+    margin-bottom: 30px;
+    margin-top: -10px;
+}
+.content{
+    padding-left: 50px;
+    padding-top: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    height: auto;
+    width: auto;
+}
+span{
+    font-size: 20px;
+    color: rgb(104,104,104);
+}
+#den,#dp{
+    color: rgb(173,255,47);
+}
+.box{
+    width: 90%;
+    height: 300px;
+    background-color: rgb(238, 238, 238);
+}
+.left{
+    width: 32%;
+    float: left;
+}
+.middle{
+    width: 32%;
+    float: left;
+    padding-right: 10px;
+    margin-left: 20px;
+}
+.right{
+    margin-left: 5px;
+    width: 32%;
+    float: right;
+}
+.secondLastContent{
+    background-color: rgb(218, 165, 32);
+    float: left;
+    padding-bottom: 20px;
+    height: 250px;
+    display: flow-root;
+}
+.footer{
+    margin-top: 965px;;
+    width: auto;
+    height: 150px;
+    background-color: white;
+}
+.leftStuff{
+    float: left;
+    padding-left: 11px;
+}
+.rightStuff{
+    float: right;
+    padding-top: 25px;
+    padding-bottom: 35px;
+    padding-right: 80px;
+}
+.middleContent{
+    float: left;
+    background-color: white;
+    padding-bottom: 40px;
+    margin-top: -20px;
+}
+#st{
+    background-color: white;
+    height: 30px;
+    border-style: solid;
+    border-radius: 2px;
+}
+#srchBtn{
+    background-color: white;
+    height: 32px;
+    border-style: solid;
+    border-radius: 2px;
+}
+button{
+    background-color: white;
+    height: 32px;
+    border-style: solid;
+    border-radius: 3px;
+}
+.de{
+    display: inline;
+}
+a{
+    text-decoration: none;
+}
+.ft{
+    color: rgb(51, 155, 213);
+    margin: -5px;
+    padding: 5px;
+}
+.boxTxt{
+    font-size: 32px;
+    font-weight: bold;
+    color: rgb(170, 170, 170);
+    padding: 30%;
+}
+.md{
+    color: rgb(51, 155, 213);
+}
+.sc{
+    color: rgb(149, 149, 149);
+    padding-right: 20px;
+}
+#mc{
+    margin-top: -40px;
+}
+#tc,#pp{
+    border-right: solid 1px;
+}
+#ftr{
+    padding-top: 20px;
+}
